@@ -2,7 +2,7 @@
 
 Summary:	HTML to PostScript converter
 Name:		html2ps
-Version:	1.0
+Version:	2.0
 Release:	%mkrel 0.b5.1
 License:	GPL
 Group:		Graphics
