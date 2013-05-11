@@ -1,5 +1,5 @@
---- html2ps.orig	Wed Aug 16 23:42:03 2000
-+++ html2ps	Wed Oct  9 18:41:24 2002
+--- ./html2ps.orig	Wed Aug 16 23:42:03 2000
++++ ./html2ps	Wed Oct  9 18:41:24 2002
 @@ -354,8 +354,8 @@
  
  EOR
