@@ -34,7 +34,7 @@ converter.
 
 %prep
 %setup -qn %{name}-%{version}%{prerel}
-%apply_patches
+%autopatch -p1
 
 %build
 sed -i -e '
