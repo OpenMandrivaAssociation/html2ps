@@ -7,7 +7,7 @@ Version:	1.0
 Release:	0.%{prerel}.1
 License:	GPLv2
 Group:		Graphics
-Url:		http://user.it.uu.se/~jan/html2ps.html
+Url:		https://user.it.uu.se/~jan/html2ps.html
 Source0:	http://user.it.uu.se/~jan/%{name}-%{version}%{prerel}.tar.gz
 Patch0:		html2ps-1.0b7-conf.patch
 Patch1:		html2ps-1.0b7-perl_path.patch
