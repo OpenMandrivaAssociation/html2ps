@@ -4,7 +4,7 @@ Summary:	HTML to PostScript converter
 Name:		html2ps
 Epoch:		1
 Version:	1.0
-Release:	0.%{prerel}.1
+Release:	0.%{prerel}.2
 License:	GPLv2
 Group:		Graphics
 Url:		https://user.it.uu.se/~jan/html2ps.html
